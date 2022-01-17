@@ -42,15 +42,6 @@ body, html {
 
 .ChristmasLights_container__jcGdT{overflow: visible; position:absolute;width:100%;top:0;margin-top:5.15rem;margin-left:-6rem; z-index: 9999;}.ChristmasLights_list__2Kshu{display:-webkit-inline-flex;display:-moz-inline-box;display:inline-flex}.ChristmasLights_light__3lhjE{position:relative;margin:0 20px;list-style:none;padding:0;display:inline-block;width:12px;height:28px;border-radius:50%;top:35px}.ChristmasLights_light__3lhjE:before{content:"";position:absolute;background:#222;width:10px;height:9px;border-radius:3px;top:-4px;left:1px}.ChristmasLights_light__3lhjE:after{content:"";top:-14px;left:9px;position:absolute;width:52px;height:19px;border-bottom:2px solid #222;border-radius:30%}.ChristmasLights_green__13qCt{-webkit-animation:ChristmasLights_lightingGreen__2LDjz .8s infinite;animation:ChristmasLights_lightingGreen__2LDjz .8s infinite;background-color:#146b3a}@-webkit-keyframes ChristmasLights_lightingGreen__2LDjz{0%{box-shadow:5px 10px 35px 10px #146b3a}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #165b33}}@keyframes ChristmasLights_lightingGreen__2LDjz{0%{box-shadow:5px 10px 35px 10px #146b3a}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #165b33}}.ChristmasLights_yellow__1j5r1{-webkit-animation:ChristmasLights_lightingYellow__3Zz3B .9s infinite;animation:ChristmasLights_lightingYellow__3Zz3B .9s infinite;background-color:#f8b229}@-webkit-keyframes ChristmasLights_lightingYellow__3Zz3B{0%{box-shadow:5px 10px 35px 10px #f8b229}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #f8b229}}@keyframes ChristmasLights_lightingYellow__3Zz3B{0%{box-shadow:5px 10px 35px 10px #f8b229}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #f8b229}}.ChristmasLights_orange__1PKcR{-webkit-animation:ChristmasLights_lightingOrange__Ng8fR 1s infinite;animation:ChristmasLights_lightingOrange__Ng8fR 1s infinite;background-color:#ea4630}@-webkit-keyframes ChristmasLights_lightingOrange__Ng8fR{0%{box-shadow:5px 10px 35px 10px #ea4630}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #ea4630}}@keyframes ChristmasLights_lightingOrange__Ng8fR{0%{box-shadow:5px 10px 35px 10px #ea4630}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #ea4630}}.ChristmasLights_red__3uEIB{-webkit-animation:ChristmasLights_lightingRed__3eUuQ 1.1s infinite;animation:ChristmasLights_lightingRed__3eUuQ 1.1s infinite;background-color:#bb2528}@-webkit-keyframes ChristmasLights_lightingRed__3eUuQ{0%{box-shadow:5px 10px 35px 10px #bb2528}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #bb2528}}@keyframes ChristmasLights_lightingRed__3eUuQ{0%{box-shadow:5px 10px 35px 10px #bb2528}50%{box-shadow:none}to{box-shadow:5px 10px 35px 10px #bb2528}}
 
-#canvas {
-  position: absolute;
-  width: 1200px;
-  height: 600px;
-  opacity: .66;
-  margin-top: 235px;
-  margin-left: 1090px;
-}
-
 .snow {
   position: fixed;
   width: 100%;
